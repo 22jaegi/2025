@@ -1,0 +1,9 @@
+team: Leopards
+
+manager: Nora
+
+members:
+- Linda
+- William
+- David
+- Olivia  # ← 이 줄 추가
